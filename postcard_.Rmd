@@ -1,0 +1,18 @@
+---
+title: "Yasmine Thomas" 
+image: "Yasmine_T.jpg" 
+links: 
+
+  - label: LinkedIn 
+    url: "www.linkedin.com/in/yasmine-m-thomas" 
+  - label: GitHub 
+    url: "https://github.com/" 
+  - label: Email 
+    url: "yasmine.thomas@lc.cuny.edu" 
+
+output: 
+
+  postcards::jolla 
+
+--- 
+I am senior student at Lehman College, majoring in Business Administration,and minoring in Data Science. 
